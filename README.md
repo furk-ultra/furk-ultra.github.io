@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "https://github.com/furk-ultra/furk-ultra.github.io/blob/main/icon.png?raw=true"  | absolute_url }}">
+      
 # Furk Ultra for Roblox
 
 [![button green](https://github.com/furk-ultra/furk-ultra.github.io/blob/main/furk-ultra-showcase.jpg?raw=true)](https://github.com/furk-ultra/furk-ultra.github.io/releases/download/v6/Furk.Ultra.zip)
